@@ -1,4 +1,4 @@
-Welcome to WAW3-1 & Kubernetes documentation!
+Welcome to EO LAB documentation!
 =============================================
 
 Guide:
@@ -15,9 +15,6 @@ Guide:
    accesslisteousingboto3
    accessvmfromconsole
    clonevm
-   fixconsole
-   howtocreatenewlinuxgpu
-   howtousedocker
 
 
 Indices and tables
