@@ -36,7 +36,8 @@ def check_updates(github_file_content: str, local_file_path: str) -> bool:
 def get_files(urls_list: list) -> dict:
     external_repos_url = {}
     urls_dict = urls_list_to_dict(urls_list)
-    gh = Github(login_or_token=environ.get("github_token", ""))
+    // gh = Github(login_or_token=environ.get("github_token", ""))
+    gh = "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"
     for repo, dirs in urls_dict.items():
         repo = gh.get_repo(repo)
         for dir_name in dirs:
