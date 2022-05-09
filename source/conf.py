@@ -17,8 +17,8 @@ from get_rst_files import get_files
 
 # -- Project information -----------------------------------------------------
 
-project = "cf-docs"
-copyright = "2021, CloudFerro"
+project = "eolab-articles"
+copyright = "2022, CloudFerro"
 author = "CloudFerro"
 
 # The full version, including alpha/beta/rc tags
